@@ -14,7 +14,7 @@ chmod +x install.sh
 
 # Usage
 
-./run.sh target.com
+`./run.sh target.com`
 
 # Process
 * This will run [getallurls](https://github.com/lc/gau) and find `Json/JS` files
